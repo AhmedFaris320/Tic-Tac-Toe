@@ -54,11 +54,11 @@
 ## 🧩 File Structure
 
 TicTacToe_AI_Undo/
-│
-├── main.py # 🎮 Main game file (all logic, UI, and event handling)
-├── README.md # 📝 Project documentation (you're reading it)
-├── requirements.txt # ⚙️ Dependencies (e.g., Pygame)
-│
-└── assets/ # 🎨 (Optional) For future icons, sounds, or images
-├── icon.png # 🧩 Game icon (optional)
-└── bg_music.mp3 # 🎵 Background music (optional)
+│<br>
+├── main.py # 🎮 Main game file (all logic, UI, and event handling)<br>
+├── README.md # 📝 Project documentation (you're reading it)<br>
+├── requirements.txt # ⚙️ Dependencies (e.g., Pygame)<br>
+│<br>
+└── assets/ # 🎨 (Optional) For future icons, sounds, or images<br>
+├── icon.png # 🧩 Game icon (optional)<br>
+└── bg_music.mp3 # 🎵 Background music (optional)<br>
